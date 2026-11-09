@@ -1,10 +1,10 @@
-# HKG NYE Tokyo→Nagoya Flight Picker
+# HKG NYE Japan Flight Picker
 
-Nonstop **open-jaw** economy: fly HKG → Tokyo (HND / NRT), return Nagoya (NGO) → HKG.
+Two nonstop tracks (1 adult economy, HKD from Google Flights):
 
-- Outbound: **28 Dec 2026** HKG → HND or NRT
-- Return: **6 / 7 / 8 Jan 2027** NGO → HKG
-- 1 adult, HKD prices from Google Flights
-- Full nonstop list (CX / ANA / JAL + budget)
+1. **Open-jaw** — HKG → Tokyo (HND / NRT) on **28 Dec 2026**, return Nagoya (NGO) → HKG on **6 / 7 / 8 Jan 2027**
+2. **Fukuoka RT** — HKG ↔ Fukuoka (FUK) out **28 Dec 2026**, return **6 / 7 / 8 Jan 2027**
+
+Full nonstop list (CX / ANA / JAL + budget).
 
 Live: https://clmphilip-dev.github.io/hkg-nye-tokyo-flight-picker/
